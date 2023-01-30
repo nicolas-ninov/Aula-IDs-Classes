@@ -1,0 +1,11 @@
+/* #descricao-videogame, #descricao-pc {
+    background-color: rgb(138, 176, 122);
+} */
+.descricao-produto {
+    background-color: rgb(255, 120, 150);
+    color: aliceblue;
+}
+
+.promocao {
+    border:solid 4px green;
+}
